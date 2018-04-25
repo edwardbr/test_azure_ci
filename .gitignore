@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Docker/TargetOS.cache
+/obj/Docker/MergedDockerCompose.cache
+/obj/Docker/docker-compose.vs.release.partial.g.yml
+/obj/Docker/docker-compose.vs.debug.partial.g.yml
+/obj/Docker/CachedComposeConfigFilePaths.cache
+/.vs
+/testwebsite/bin/Debug/netcoreapp2.0
+/testwebsite/obj
